@@ -13,10 +13,10 @@ description = "Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem
 Grundsätzlich unterliegen Polizisten und Polizistinnen den gleichen Rechten wie jeder andere Bürger und jede andere Bürgerin. Es gibt jedoch Ausnahmen, wenn es um besondere Situationen geht. Was die Polizei genau darf, ist jedoch kantonal gesetzlich geregelt. So gilt zum Beispiel im Kanton Bern: «Polizeiangehörige sind auch in der dienstfreien Zeit zu polizeilichem Handeln im Kantonsgebiet berechtigt, wenn Verbrechen oder Vergehen oder erhebliche Gefährdungen Anlass dazu geben und im Dienst befindliche Polizeiangehörige nicht innert nützlicher Frist verfügbar sind.» Ob Situationen, in denen sie polizeiliches Handeln außerhalb der Dienstzeit anwenden müssen, oft eintreffen, ist schwer zu beurteilen. Daher haben wir uns bei Marie-Louis Kilchör erkundigt, die schon einige Zeit bei der Polizei arbeitet. Sie antwortet auf die Frage, ob sie bereits solche Situationen erlebt habe: “So direkt kommt mir nichts in den Sinn, aber das hat es schon gegeben.  Bestimmt nichts, das kritisch gewesen wäre, sonst wüsste ich das noch. Aber wie gesagt, fühlt man sich schon angesprochen, wenn man sieht, dass etwas fehlgehen kann.” Neben diesem Gesetz ist es Polizisten und Polizistinnen auch erlaubt, ihre Dienstwaffe mit nach Hause zu nehmen. Dass sie dies dürfen, findet Marie-Louis unbedenklich. Dazu sagt sie: “Nein, ich finde es nicht bedenklich, da sie einen Waffenschein besitzen.... Man hat Schießausbildungen und immer regelmäßige Übungen. Daher ist man mit der Waffe sehr gut vertraut und weiß, was man darf und was man sein lassen soll. Die Gesetze sind einem klar.” 
 
 > Zitat Marie-Luise: „Die Gesetze sind einem klar.“
->
->
->
-> ![](polizeiposten.jpg "Polizeiposten")
+
+
+
+![](polizeiposten.jpg "Polizeiposten")
 
 ## Arbeitsalltag in Schichten 
 
