@@ -8,13 +8,13 @@ description = "Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem
 +++
 ![Die heute 51-jährige Marie-Luise Kilchör hat im Jahr 1995 die Polizeischule im Ausbildungszentrum der Kantonspolizei Bern in Ittigen abgeschlossen. Seither arbeitet sie in verschiedenen Positionen für die Polizei. Nach 4 Jahren Uniform Polizei wechselte sie zur Kriminalpolizei Bern. Aktuell arbeitet sie bei der Fedpol in der SIRENE Schweiz als Fahndungsspezialistin im Schichtbetrieb.    SIRENE steht für “Supplementary Information Request at the National Entry”. Die Fahndungsspezialisten und Fahndungsspezialistinnen beschäftigen sich mit der Personen- und Sachfahndung im Bereich der internationalen Fahndungen.   Lead ](polizei-2-2-.png)
 
+Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem Beruf und seinen Arbeitszeiten beschäftig. Dabei haben wir einen Einblick in einen Tag zwischen zwei Nachtschichten bekommen und ein Interview mit der Polizistin Marie-Luise Kilchör geführt. 
+
 ## Was dürfen Polizisten und Polizistinnen im Alltag 
 
 Grundsätzlich unterliegen Polizisten und Polizistinnen den gleichen Rechten wie jeder andere Bürger und jede andere Bürgerin. Es gibt jedoch Ausnahmen, wenn es um besondere Situationen geht. Was die Polizei genau darf, ist jedoch kantonal gesetzlich geregelt. So gilt zum Beispiel im Kanton Bern: «Polizeiangehörige sind auch in der dienstfreien Zeit zu polizeilichem Handeln im Kantonsgebiet berechtigt, wenn Verbrechen oder Vergehen oder erhebliche Gefährdungen Anlass dazu geben und im Dienst befindliche Polizeiangehörige nicht innert nützlicher Frist verfügbar sind.» Ob Situationen, in denen sie polizeiliches Handeln außerhalb der Dienstzeit anwenden müssen, oft eintreffen, ist schwer zu beurteilen. Daher haben wir uns bei Marie-Louis Kilchör erkundigt, die schon einige Zeit bei der Polizei arbeitet. Sie antwortet auf die Frage, ob sie bereits solche Situationen erlebt habe: “So direkt kommt mir nichts in den Sinn, aber das hat es schon gegeben.  Bestimmt nichts, das kritisch gewesen wäre, sonst wüsste ich das noch. Aber wie gesagt, fühlt man sich schon angesprochen, wenn man sieht, dass etwas fehlgehen kann.” Neben diesem Gesetz ist es Polizisten und Polizistinnen auch erlaubt, ihre Dienstwaffe mit nach Hause zu nehmen. Dass sie dies dürfen, findet Marie-Louis unbedenklich. Dazu sagt sie: “Nein, ich finde es nicht bedenklich, da sie einen Waffenschein besitzen.... Man hat Schießausbildungen und immer regelmäßige Übungen. Daher ist man mit der Waffe sehr gut vertraut und weiß, was man darf und was man sein lassen soll. Die Gesetze sind einem klar.” 
 
 > Zitat Marie-Luise: „Die Gesetze sind einem klar.“
-
-
 
 ![](polizeiposten.jpg "Polizeiposten")
 
