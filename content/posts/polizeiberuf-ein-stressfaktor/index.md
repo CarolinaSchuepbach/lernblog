@@ -6,6 +6,8 @@ pinned = false
 image = "polizei-2-2-.png"
 description = "Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem Beruf und seinen Arbeitszeiten beschäftig. Dabei haben wir einen Einblick in einen Tag zwischen zwei Nachtschichten bekommen und ein Interview mit der Polizistin Marie-Luise Kilchör geführt. \n\n "
 +++
+### Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem Beruf und seinen Arbeitszeiten beschäftig. Dabei haben wir einen Einblick in einen Tag zwischen zwei Nachtschichten bekommen und ein Interview mit der Polizistin Marie-Luise Kilchör geführt.
+
 ![](polizei-2-2-.png)
 
 {{</box title= "Marie-Luise Kilchör">}}
@@ -13,8 +15,6 @@ description = "Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem
 Die heute 51-jährige Marie-Luise Kilchör hat im Jahr 1995 die Polizeischule im Ausbildungszentrum der Kantonspolizei Bern in Ittigen abgeschlossen. Seither arbeitet sie in verschiedenen Positionen für die Polizei. Nach 4 Jahren Uniform Polizei wechselte sie zur Kriminalpolizei Bern. Aktuell arbeitet sie bei der Fedpol in der SIRENE Schweiz als Fahndungsspezialistin im Schichtbetrieb.    SIRENE steht für “Supplementary Information Request at the National Entry”. Die Fahndungsspezialisten und Fahndungsspezialistinnen beschäftigen sich mit der Personen- und Sachfahndung im Bereich der internationalen Fahndungen.  
 
 {{</box>}}
-
-### Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem Beruf und seinen Arbeitszeiten beschäftig. Dabei haben wir einen Einblick in einen Tag zwischen zwei Nachtschichten bekommen und ein Interview mit der Polizistin Marie-Luise Kilchör geführt. 
 
 ## Was dürfen Polizisten und Polizistinnen im Alltag 
 
