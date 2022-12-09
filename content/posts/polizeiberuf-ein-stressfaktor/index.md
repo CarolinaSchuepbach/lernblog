@@ -6,7 +6,7 @@ pinned = false
 image = "polizei-2-2-.png"
 description = "Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem Beruf und seinen Arbeitszeiten beschäftig. Dabei haben wir einen Einblick in einen Tag zwischen zwei Nachtschichten bekommen und ein Interview mit der Polizistin Marie-Luise Kilchör geführt. \n\n "
 +++
-### Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem Beruf und seinen Arbeitszeiten beschäftig. Dabei haben wir einen Einblick in einen Tag zwischen zwei Nachtschichten bekommen und ein Interview mit der Polizistin Marie-Luise Kilchör geführt.
+### Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem Beruf und seinen Arbeitszeiten beschäftig. Dabei haben wir einen Einblick in einen Tag zwischen zwei Nachtschichten bekommen und ein Interview mit der Polizistin Marie-Luise Kilchör geführt. Eine Reportage von Sharelle Kilchör und Carolina Schüpbach.
 
 ![](polizei-2-2-.png)
 
