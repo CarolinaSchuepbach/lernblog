@@ -1,5 +1,5 @@
 +++
-title = "Un regard dans le livre „Les impatientes „"
+title = "Un regard dans le livre „Les impatientes\""
 date = "2023-01-16"
 draft = true
 pinned = false
