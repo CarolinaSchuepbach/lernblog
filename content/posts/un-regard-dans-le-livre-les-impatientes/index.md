@@ -22,4 +22,4 @@ Cet extrait montre ce que le père dit à Ramla et Hindou avant le mariage. On y
 
 ## Avis:
 
-Le texte est actuel. Le lectorat voit dans ce texte qu’en différent pays les femmes sont traités diffèrent. Le texte montre que c’est très important que nous avons une autre culture et des autres lois pour que les femmes soient traitées à égalité.
+Le texte est actuel. Le lectorat voit dans ce texte qu’en différent pays les femmes sont traités diffèrent. Le texte montre que c’est très important que nous avons une autre culture et des autres lois pour que les femmes soient traitées à égalité. A cause de ca je trouve ce livre très intéressant et passionnant. Je trouve que c'est un très bon livre et je le recommanderais à tout le monde.
