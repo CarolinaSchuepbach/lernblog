@@ -4,6 +4,7 @@ date = "2023-01-16"
 draft = true
 pinned = false
 tags = ["Lektüre", "Francophonie", "Französisch"]
+image = "microsoftteams-image-11-.png"
 description = "Un bref résumé et une opinion personnelle sur le livre « Les impatientes » par Djaïli Amadou Amal."
 +++
 ## Auteur:
